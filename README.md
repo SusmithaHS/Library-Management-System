@@ -21,5 +21,5 @@ Create a console based Java application to simulate a simple Library Management 
 - Input handled using Scanner.
 - Prevents issuing already-issued books or returning invalid books.
 
-  ## Output
-  - Sample (
+## Output
+- Sample (https://github.com/SusmithaHS/Library-Management-System/blob/main/day3.jpg)
